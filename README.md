@@ -2,11 +2,10 @@
 
 <p>
   📖 majored in Industrial Engineering <br>
-  
 </p>
 
-<h3 align="center">⭐️ Skills ⭐️</h3>
-<h4 align="center">Skills that I've used at least once</h4>
+<h3 align="center">⭐️ Skills ⭐️<br> Skills that I've used at least once </h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/></a>&nbsp 
 </p>
-<br>
+
 <h3 align="center">🛠 I've used 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
@@ -28,8 +27,8 @@
   <img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>&nbsp 
 </p>
-<br>
-<p align="center">🖱Me🖱</p>
+
+<h3 align="center"> 🙂 contact me 🙂</h3>
 <p align="center">
   <a href="mailto:jsw6872@gmail.com"><img src="https://img.shields.io/badge/jsw6872@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/tjddn623"><img src="https://img.shields.io/badge/-tjddn623-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>

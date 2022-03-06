@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ABCDED&height=150&section=header&text=Seongwoo%20Jo&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=ABCDED&height=200&section=header&text=Seongwoo%20Jo&fontSize=70)
 
 <!-- <p>
   ✔️ <br>

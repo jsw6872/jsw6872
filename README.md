@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=ABCDED&height=200&section=header&text=Seongwoo%20Jo&fontSize=70)
 
-<!-- <p>
-  ✔️ <br>
-  ✔️ 
-</p> -->
+<p>
+  📖 majored in Industrial Engineering <br>
+  
+</p>
 
 <h3 align="center">⭐️ Skills ⭐️</h3>
 <h4 align="center">Skills that I've used at least once</h4>
@@ -38,6 +38,9 @@
 <h3 align="center">🖥 GitHub language Analytics</h3>
 <p align="center">
   <a href="https://github.com/jsw6872">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6872&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsw6872&theme=gruvbox" />
+  </a>
+   <a href="https://github.com/jsw6872">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsw6872&show_icons=true&theme=gruvbox&line_height=27" alt="Github Gtats"/>
   </a>
 </p>

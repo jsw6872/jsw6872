@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=ABCDED&height=200&section=header&text=Seongwoo%20Jo&fontSize=70)
 
 <p>
+  <a> research student at <a href="https://github.com/TeamLab"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/>TEAMLAB</a> <br>
   📖 majored in Industrial Engineering <br>
   ✏️ studying ML/DL
 </p>

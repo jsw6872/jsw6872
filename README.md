@@ -3,7 +3,7 @@
 <p>
   <a> research student at <a href="https://github.com/TeamLab"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/>TEAMLAB</a> <br>
   📖 majored in Industrial Engineering <br>
-  ✏️ studying ML/DL
+    ✏️ studying <a href="https://github.com/jsw6872/DataScience_ML-DL">ML/DL</a>
 </p>
 
 <h3 align="center">⭐️ Skills ⭐️<br> Skills that I've used at least once </h3>
